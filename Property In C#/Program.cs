@@ -71,3 +71,13 @@ class Myclass : Employee
         Console.WriteLine(employee.Name);
     }
 }
+
+
+//Property In C# - Getters and Setters
+//THree types of properties in C#
+//1. Read-Write Property
+//2. Read-Only Property
+//3. Write-Only Property
+//Static Property
+//Auto-Implemented Property
+//Abstract Property
